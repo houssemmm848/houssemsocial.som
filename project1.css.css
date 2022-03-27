@@ -1,0 +1,11 @@
+html {
+    background: #E6A685;
+}
+a{
+    background-position: center center;
+}
+body,html{
+    height:60vh;
+    display:grid;
+    place-items:center;
+  }
